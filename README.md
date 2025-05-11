@@ -1,1 +1,1 @@
-# mineyourfuture.hithub.io
+# mineyourfuture.github.io
